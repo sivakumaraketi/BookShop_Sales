@@ -1,0 +1,33 @@
+[
+    {
+      "customer": "John Doe",
+      "product": "Book A",
+      "price": 15.99
+    },
+    {
+      "customer": "Jane Smith",
+      "product": "Book B",
+      "price": 12.50
+    },
+    {
+      "customer": "Michael Johnson",
+      "product": "Book C",
+      "price": 19.75
+    },
+    {
+      "customer": "John Doe",
+      "product": "Book D",
+      "price": 19.99
+    },
+    {
+      "customer": "Jane Smith",
+      "product": "Book E",
+      "price": 22.50
+    },
+    {
+      "customer": "Michael Johnson",
+      "product": "Book F",
+      "price": 8.75
+    }
+  ]
+  
